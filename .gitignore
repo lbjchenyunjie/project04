@@ -1,0 +1,10 @@
+project04_venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
